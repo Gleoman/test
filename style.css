@@ -1,6 +1,8 @@
-body {background:lightblue;}
-.splashscreen {background: #c9c9ff;
-height: 75vh;
-margin: 20px;
-padding: 1%;}
+body {background:red;}
+.splashscreen {
+    background: #c9c9ff;
+    height: 20vh;
+    margin: 20px;
+    padding: 1%;}
 .articles {background: #c8f7c8;}
+.resize1 {max-width: 30%; max-height: 30%;}
